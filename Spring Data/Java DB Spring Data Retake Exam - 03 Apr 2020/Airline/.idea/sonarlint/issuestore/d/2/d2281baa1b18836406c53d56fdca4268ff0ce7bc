@@ -1,0 +1,14 @@
+
+`	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(¸”Ùúûÿÿÿÿ8„Áèæ•.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„Áèæ•.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„Áèæ•.
+C
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„Áèæ•.
+`
+java:S2147"ECombine this catch with the one at line 123, which has the same body.(‹±ÃÆ8„Áèæ•.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8„Áèæ•.
+R
+java:S1135"2Complete the task associated to this TODO comment.(ûƒÔıÿÿÿÿ8„Áèæ•.
+[	java:S125"<This block of commented-out lines of code should be removed.(ñÂÈÒúÿÿÿÿ8„Áèæ•.
